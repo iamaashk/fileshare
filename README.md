@@ -52,6 +52,6 @@ This project is copyrighted by Adnan Ahmad. Any unauthorized use, reproduction, 
 ## About the Author
 FileShare project is created and maintained by Adnan Ahmad.
 
-For any inquiries or issues, feel free to contact me at [adnan.ahmad@email.com](mailto:adnan.ahmad@email.com).
+For any inquiries or issues, feel free to contact me at [adnanhmadshaikh2003@gmail.com](mailto:adnanhmadshaikh2003@gmail.com).
 
 Thank you for choosing FileShare!
