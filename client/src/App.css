@@ -1,0 +1,41 @@
+*{
+  margin :0;
+  padding : 0
+}
+
+.container{
+  background: rgba(156, 149, 250, 0.411);
+  height: 100vh;
+  overflow: hidden;
+  opacity: 50;
+  display: flex;
+}
+
+.wrapper{
+  background-color: #14184d59;
+  width: 1100px;
+  height: 500px;
+  margin: auto;
+  display:flex;
+
+  align-items: center;
+  flex-direction: column;
+
+}
+h1{
+  font-size: 40px;
+  font-weight: 600;
+  color: #000000;
+  margin: 40px 0;
+}
+
+button{
+  width: 150px;
+  height: 40px;
+  border-radius: 5px;
+  background-color: #445A6F;
+  border: 1x solid #445A6F;
+  color: #fff;
+  font-size: 20px;
+  margin: 30px 0 ;
+}
