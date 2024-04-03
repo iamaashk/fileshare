@@ -11,7 +11,7 @@ const DBConnection = async ()=>{
 
           console.log("Database is connected");
           return mongoose.connect(MONGODB_URL, {config});
-          console.log("Database is connected");
+        
     } catch (error) {
         console.error('Error while connecting to database',error.message);
     }
